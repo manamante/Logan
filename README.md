@@ -17,3 +17,5 @@ A modular Telegram bot running on python3 with an sqlalchemy database, with some
 * Paul Larsen - marie creator, inspiration to do many things
 * FFBot - for translations functions
 And much more that we couldn't list it here!
+
+[![Deploy](https://heroku.com/deploy) 
