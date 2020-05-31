@@ -1,5 +1,5 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/8159a505e2ef44f3b631229a7b9652d0)](https://app.codacy.com/manual/Nitin1818/Logan?utm_source=github.com&utm_medium=referral&utm_content=Nitin1818/Logan&utm_campaign=Badge_Grade_Dashboard)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nitin1818/HarukaAya/tree/Nitin1818-update-1)
+(https://heroku.com/deploy?template=https://github.com/Nitin1818/HarukaAya/tree/Nitin1818-update-1)
 
 # Loganbot
 
@@ -18,4 +18,4 @@ A modular Telegram bot running on python3 with an sqlalchemy database, with some
 * FFBot - for translations functions
 And much more that we couldn't list it here!
 
-[![Deploy](https://heroku.com/deploy) 
+[![Deploy]([![Deploy](https://www.herokucdn.com/deploy/button.svg)]) 
